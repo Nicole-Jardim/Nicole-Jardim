@@ -13,8 +13,6 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/nicole-jardim" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
 </div>
 
 ###
@@ -24,11 +22,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nicole-Jardim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="128" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nicole-Jardim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nicole-Jardim&show_icons=true&include_all_commits=true&count_private=true&theme=rose_pine&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nicole-Jardim&layout=compact&langs_count=5&theme=rose_pine&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
 ###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -106,6 +105,34 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+
 </div>
+
+###
+
+
+### 💼 My Projects
+
+#### Beauty Salon Management System 💇‍♀️  
+- **What it does:** Organizes appointments, services, and clients in a practical and efficient way.  
+- **Technologies used:** Python (basic data structures), `.txt` files for data persistence.  
+- **Goal:** Create an accessible solution for managing salons with a focus on usability.
+
+---
+
+### 🛠️ Skills
+
+- **Languages:** Python, JavaScript, Java.  
+- **Frameworks and Libraries:** React and Node.js.  
+- **Databases:** PostgreSQL, MongoDB.  
+- **Other Technologies:** Git/GitHub.
+
+---
+
+### 🌱 What Am I Working on Now?
+
+- **Improving:** My knowledge in C, JavaScript, and continuously enhancing my programming logic.
+
+
 
 ###
