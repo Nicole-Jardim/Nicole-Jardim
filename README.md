@@ -17,8 +17,6 @@
 
 ###
 
-<h3 align="left">Stats</h3>
-
 ###
 
 <div align="center">
